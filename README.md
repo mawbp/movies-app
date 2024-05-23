@@ -1,7 +1,7 @@
 # Movies App
 
-Aplikasi untuk melihat informai suatu film.
-Data diambil dari OMDB API
+See some information about any films and series around the world.
+All of data is collected from OMDB Api
 
-Link website OMDB
+Create your own apikey here
 http://www.omdbapi.com/
